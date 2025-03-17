@@ -1,5 +1,5 @@
 # ESP32-with-TempandHumidity-Sensor
-designed a ESP32 with temp and humidity sensor hi
+designed a ESP32 with temp and humidity sensor
 
 ![esp32](pic1.png)  
 ![esp32](pic2.png)  

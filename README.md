@@ -2,3 +2,7 @@
 designed a ESP32 with temp and humidity sensor
 
 ![esp32](pic1.png)  
+![esp32](pic2.png)  
+![esp32](pic3.png)  
+![esp32](pic4.png)  
+![esp32](pic5.png)  
